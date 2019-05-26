@@ -22,9 +22,9 @@ Example: !ice depleted jita
 Save main.py where you wish to execute the bot from.
 
 # Setting the Bot up:
-Create application at discordapp.com/developers/applications
-Add a bot to your application by selecting add bot
-Update main.py with Bot Token given by your application you just created
+Create application at discordapp.com/developers/applications.
+Add a bot to your application by selecting add bot.
+Update main.py with Bot Token given by your application you just created.
 
 # To Host the Bot on your server:
 Prerequisites:
