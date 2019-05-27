@@ -13,12 +13,12 @@ timer_list = []
 
 help_message = \
 """
-!ice depleted Region 
-!eno depleted Region 
-!col depleted Region
+!ice depleted system 
+!eno depleted system 
+!col depleted system
 !list
 !status {ice, eno, col}
-!status {ice, eno, col} Region
+!status {ice, eno, col} system
 !delete id
 """
 
