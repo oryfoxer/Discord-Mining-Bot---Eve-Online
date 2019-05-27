@@ -14,6 +14,10 @@ More features will be added soon, but the basic functionality is there and I wan
     !ice depleted system
     !eno depleted system
     !col depleted system
+    !list
+    !status {ice, eno, col}
+    !status {ice, eno, col} Region
+    !delete id
 
 Example: !ice depleted jita
 
