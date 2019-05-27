@@ -18,6 +18,7 @@ More features will be added soon, but the basic functionality is there and I wan
     !status {ice, eno, col}
     !status {ice, eno, col} system
     !delete id
+    !help
 
 Example: !ice depleted jita
 
